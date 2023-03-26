@@ -69,6 +69,9 @@ color: rgb(3, 117, 112);
      font-family: cursive;
      color: brown;
 }
+#li{
+ flex-direction: row reverse
+}
 
 
 
