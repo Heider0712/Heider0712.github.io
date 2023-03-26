@@ -34,6 +34,8 @@ html{}
 .letra4{
        color: black;
        paddinh-left: 210px;
+       padding-right:150px;
+
        text-decoration: none;
        font-family: cursive;
        font-size: 18px;
@@ -91,4 +93,24 @@ color: rgb(3, 117, 112);
 #n1{
     color: aqua;
 }
+#menu{ 
+     float: top;
+     text-align: center;
+     list-style: none;
+     background-color: rgba(100, 100, 100, 0.1);
+     margin: 0vw 0vw 0vw 0vm;
+} 
+#menu li{display: inline-block;}
+#menu li a{
+ display: block;
+ padding: 0.5vw 2vw;
+ text-decoration: none;
+ color:rgb( 0,0,200)
+  -webkit-text-stroke:0.03vw rgb(255,255, 255);
+ font-size: 2.5vw;}
+#menu li a:hover{
+ color: rgb(200,0,0);
+ background-color:rgba(0, 0, 0, 0.5);
+}
+ 
 
