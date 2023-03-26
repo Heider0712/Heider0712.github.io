@@ -14,8 +14,9 @@ html{}
      margin: 0vw 0vw;
 
 }
-#c1{
-background-image:/image/fondo.jpg;
+#c1{ 
+  padding-left 300px;
+ font-family: cursive;
 }
 
 
