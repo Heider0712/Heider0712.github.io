@@ -14,7 +14,7 @@ html{}
      margin: 0vw 0vw;
 
 }
-#contacto{
+.contacto{
 background-image:/image/fondo.jpg;
 }
 
@@ -45,7 +45,9 @@ background-image:/image/fondo.jpg;
        text aling: center;
 }
 img{
-     padding-left: 800px;
+     padding-left: 400px;
+     padding- right: 300px
+
 
 }
 .ti{
