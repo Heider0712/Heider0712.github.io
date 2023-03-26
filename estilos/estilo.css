@@ -30,7 +30,12 @@ html{}
      padding-left: 210px;
      text-decoration: none;
      font-family: cursive;
-
+}
+.letra4{
+ color: rgb(3,117,112);
+  text-decoration: none;
+  font-family: cursive;
+ font-size: 12px;
 }
 img{
      padding-left: 200px;
