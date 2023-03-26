@@ -76,5 +76,13 @@ color: rgb(3, 117, 112);
  background-image/imagenes/fondo.jpg;
 }
 
-
+#unico{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(9, 182, 182);
+    font-family: cursive;
+}
+#n1{
+    color: aqua;
+}
 
