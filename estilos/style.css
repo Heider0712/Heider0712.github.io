@@ -1,19 +1,65 @@
+
 body{
-    background-color: rgb(243, 243, 224);
+    background-image: url(/imagenes/fondo-abstracto-formas-poligonales-trazadas_1053-442.avif);
 }
-
+#menu li{
     
-   
-    
-    
-
-/* estilos por clase*/
-#unico{
-    text-align: center;
-    font-size: 40px;
-    color: rgb(9, 182, 182);
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
     font-family: cursive;
+    padding-left: 100px;
+    padding-top: 40px;
 }
-#n1{
-    color: aqua;
+#menu a{
+    padding: 1vw;
+    padding-left: 50px;
+
+    
+    
+}
+#menu a:hover{
+    color: rgb(251, 93, 93);
+   
+    ;
+}
+.n2{
+    padding-left: 400px;
+    padding-top: 50px;
+    font-family: monospace;
+    background-color: rgb(176, 104, 70);
+    font-style: oblique;
+   
+
+
+}
+.n3{
+    padding-left: 40px;
+    padding-top: 20px;
+    background-color: rgb(216, 72, 72);
+    font-style: oblique;
+}.h2{
+    font-family: monospace;
+}.ini{
+    padding-left: 30px;
+    padding-top: 50px;
+    font-family: monospace;
+    font-style: oblique; color: brown;
+}.m1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}.ini{
+    padding-left: 50px;
+}.img1{
+    border-radius: 10px;
+   
+}.a1{
+    
+        color: blue;
+        margin-top: 10px;
+
+}.a1:hover{
+    font-style: oblique;
+    color: rgb(255, 72, 0);
+    margin-top: 5px;
 }
