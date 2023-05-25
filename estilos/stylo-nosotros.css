@@ -27,5 +27,8 @@ body{
 }.va{
     padding-top: 15px;
     font-style: oblique;
-    color: rgb(59, 64, 72);
-}
+    color: rgb(255, 72, 0);
+    margin-top: 5px;
+}.va:hover{
+    color: blue;
+    margin-top: 10px;
