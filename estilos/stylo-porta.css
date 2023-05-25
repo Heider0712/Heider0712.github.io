@@ -1,0 +1,51 @@
+body{
+    background-image: url(/imagenes/fondo-abstracto-formas-poligonales-trazadas_1053-442.avif);
+}.p1{
+    padding-left: 40px;
+    padding-top: 20px;
+    
+    font-style: oblique;
+}.p{
+    padding-left: 30px;
+    padding-top: 50px;
+    font-family: monospace;
+    font-style: oblique; color: brown;
+}.m1{
+    padding-left: 40px;
+    padding-top: 20px;
+    background-color: rgb(216, 72, 72);
+    font-style: oblique;
+}.a1:hover{
+    color: blue;
+    margin-top: 10px;
+}
+.m2{
+    font-style: oblique;
+    text-align: justify;
+    color: rgb(22, 32, 50);
+}.img1{
+    border-radius: 10px;
+    padding-left: 150px;
+}.a1{
+    font-style: oblique;
+    color: rgb(255, 72, 0);
+    margin-top: 5px;
+}.ini{
+    font-style:oblique;
+    color: rgb(225, 93, 93);
+    padding-top: 20px;
+}.ini:hover{
+    color: blue;
+}.img2{
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+    
+     
+    
+    
+
+
+
